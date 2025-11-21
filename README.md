@@ -1,5 +1,13 @@
+# Vision Transformer Exploration
+
+Proyek ini bertujuan untuk mengeksplorasi performa model Vision Transformer (ViT) dan Swin Transformer dalam tugas klasifikasi gambar. Repository ini menyediakan kode untuk pelatihan model, proses pengambilan data uji, serta pengujian model terlatih menggunakan file `.pth`.
+
+
+
 Clone repository
+
 git clone https://github.com/rayhanfatihg/Vision_Transformer_Exploration.git
+
 cd Vision_Transformer_Exploration
 
 Install semua library yang dibutuhkan
